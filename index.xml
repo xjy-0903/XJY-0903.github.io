@@ -7,7 +7,15 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Fri, 17 Jul 2026 09:59:32 +0800</lastBuildDate><atom:link href="https://XJY-0903.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 17 Jul 2026 11:23:52 +0800</lastBuildDate><atom:link href="https://XJY-0903.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Newpost</title>
+        <link>https://XJY-0903.github.io/p/newpost/</link>
+        <pubDate>Fri, 17 Jul 2026 11:23:52 +0800</pubDate>
+        
+        <guid>https://XJY-0903.github.io/p/newpost/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Newnewnew</title>
         <link>https://XJY-0903.github.io/p/newnewnew/</link>
         <pubDate>Fri, 17 Jul 2026 09:59:32 +0800</pubDate>
